@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "826955949554",
+    "project_id": "appbarmatic",
+    "storage_bucket": "appbarmatic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826955949554:android:2a29543b7875c82b54f76b",
+        "android_client_info": {
+          "package_name": "com.jvaleto.barmatic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826955949554-5tfar2m2hdrdgklo8352hflgb8g2knuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jvaleto.barmatic",
+            "certificate_hash": "e6d357796ba9e778bd74bea6bb57d84e125f1bd0"
+          }
+        },
+        {
+          "client_id": "826955949554-8ccqhkeh7nj7ndvtg985jqsr37fl4240.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBs4oqIwpo-hhgY6gZpvXolq3dVXH_n-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826955949554-8ccqhkeh7nj7ndvtg985jqsr37fl4240.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
